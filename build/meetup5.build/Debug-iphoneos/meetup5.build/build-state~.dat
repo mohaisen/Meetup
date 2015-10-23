@@ -1,0 +1,500 @@
+Tmeetup5
+v7
+r0
+t311191039.621106
+cCheck dependencies
+cCpResource build/Debug-iphoneos/meetup5.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/Info.plist meetup5-Info.plist
+cCompileXIB /Users/denis/Documents/research/smash/iphone/meetup5/MainWindow.xib
+cCompileXIB /Users/denis/Documents/research/smash/iphone/meetup5/RootViewController.xib
+cProcessPCH /var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-dhnyupeekedsqwbltcsjerjzhwhv/meetup5_Prefix.pch.gch meetup5_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-euikkyhazktqxagfdaqaohpspsyd/meetup5_Prefix.pch.gch meetup5_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/deviceList.mom /Users/denis/Documents/research/smash/iphone/meetup5/deviceList.xcdatamodel
+cCompileC build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/main.o /Users/denis/Documents/research/smash/iphone/meetup5/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup5AppDelegate.o /Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/RootViewController.o /Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/main.o /Users/denis/Documents/research/smash/iphone/meetup5/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup5 normal armv6
+cCompileC build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup5AppDelegate.o /Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/RootViewController.o /Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup5 normal armv7
+cCreateUniversalBinary /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/meetup5 normal "armv6 armv7"
+cGenerateDSYMFile /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app.dSYM /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/meetup5
+cProcessProductPackaging "/Users/denis/Library/MobileDevice/Provisioning Profiles/6F893F2A-F983-4856-896F-07B2DC0F7DA2.mobileprovision" /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/embedded.mobileprovision
+cTouch /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5.xcent
+cCodeSign /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A533700000000002F9FB0
+t1280987959
+s3121072
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A5311000000000000046B
+t1280987921
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004C68BC830000000000231E60
+t1281932419
+s2301536
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004C68BC5E000000000000030F
+t1281932382
+s783
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/Availability.h
+c000000004C57A57A0000000000001A5C
+t1280812410
+s6748
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.h
+c000000004CDB6648000000000000047C
+t1289446984
+s1148
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.m
+c000000004CDC2CCD0000000000004320
+t1289497805
+s17184
+i"RootViewController.h"
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.h
+c000000004CD31A5000000000000001F3
+t1288903248
+s499
+i<UIKit/UIKit.h>
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m
+c000000004CD31A720000000000000B3F
+t1288903282
+s2879
+i"meetup5AppDelegate.h"
+i"RootViewController.h"
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/MainWindow.xib
+c000000004CDAD8EB0000000000006B90
+t1289410795
+s27536
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/RootViewController.xib
+c000000004CCF0FF20000000000005CF5
+t1288638450
+s23797
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app
+t1289498239
+s408
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app.dSYM
+t1289498235
+s102
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/Info.plist
+t1289498232
+s728
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/MainWindow.nib
+t1289498233
+s2493
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/PkgInfo
+t1289498232
+s8
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/ResourceRules.plist
+t1289498232
+s485
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/RootViewController.nib
+t1289498233
+s3379
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/deviceList.mom
+t1289498234
+s2285
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/embedded.mobileprovision
+t1289498235
+s7173
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/meetup5
+t1289498235
+s67872
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/RootViewController.o
+t1289498235
+s64988
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/main.o
+t1289498234
+s6476
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup5
+t1289498235
+s31052
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup5.LinkFileList
+c000000004CDC2E7800000000000001A2
+t1289498232
+s418
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup5AppDelegate.o
+t1289498235
+s49568
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/RootViewController.o
+t1289498235
+s64292
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/main.o
+t1289498235
+s6460
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup5
+t1289498235
+s31008
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup5.LinkFileList
+c000000004CDC2E7800000000000001A2
+t1289498232
+s418
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup5AppDelegate.o
+t1289498235
+s49480
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5.xcent
+t1289498235
+s420
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/deviceList.xcdatamodel
+c000000004CD5DAAA0000000000000088
+t1289083562
+s136
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/main.m
+c000000004CC25B860000000000000166
+t1287805830
+s358
+i<UIKit/UIKit.h>
+
+N/Users/denis/Documents/research/smash/iphone/meetup5/meetup5_Prefix.pch
+c000000004CC25B860000000000000140
+t1287805830
+s320
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/denis/Library/MobileDevice/Provisioning Profiles/6F893F2A-F983-4856-896F-07B2DC0F7DA2.mobileprovision
+c000000004CB652BA0000000000001C05
+t1287017146
+s7173
+
+N/Users/denis/Library/MobileDevice/Provisioning Profiles/970894BD-BE7A-4DF6-A2DB-7B4E73B3F1F7.mobileprovision
+c000000004C963D8A0000000000001C3B
+t1284914570
+s7227
+
+N/var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-dhnyupeekedsqwbltcsjerjzhwhv/meetup5_Prefix.pch.gch
+t1289498234
+s9852464
+
+N/var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-euikkyhazktqxagfdaqaohpspsyd/meetup5_Prefix.pch.gch
+t1289498234
+s10315312
+
+Nmeetup5-Info.plist
+c000000004CC25B86000000000000038D
+t1287805830
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311191032#311191032#0(0"0(0#1#0"8718992256#0"0#
+
+CCodeSign /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app
+s311191035.512062
+e311191039.621015
+r1
+xCodeSign
+x/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app
+lSLF07#2@41"CodeSign build/Debug-iphoneos/meetup5.app311191035#311191039#0(0"0(0#0#85"/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app8718869408#706"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Denis Foo Kune (RDVSX4P5C8)" --resource-rules=/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/ResourceRules.plist --entitlements /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5.xcent /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app0#
+
+CCompileC build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/RootViewController.o /Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s311191034.948765
+e311191035.119054
+r1
+xCompileC
+xbuild/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/RootViewController.o
+x/Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.m311191034#311191035#0(0"0(0#0#81"/Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.m8723874912#1916"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-generated-files.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-own-target-headers.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-all-target-headers.hmap -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-project-headers.hmap -F/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos -I/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/include -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources/armv6 -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources -include /var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-dhnyupeekedsqwbltcsjerjzhwhv/meetup5_Prefix.pch -c /Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.m -o /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/RootViewController.o0#
+
+CCompileC build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/main.o /Users/denis/Documents/research/smash/iphone/meetup5/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s311191034.825384
+e311191034.885876
+r1
+xCompileC
+xbuild/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/main.o
+x/Users/denis/Documents/research/smash/iphone/meetup5/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/denis/Documents/research/smash/iphone/meetup5/main.m311191034#311191034#0(0"0(0#0#59"/Users/denis/Documents/research/smash/iphone/meetup5/main.m8721321120#1880"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-generated-files.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-own-target-headers.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-all-target-headers.hmap -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-project-headers.hmap -F/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos -I/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/include -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources/armv6 -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources -include /var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-dhnyupeekedsqwbltcsjerjzhwhv/meetup5_Prefix.pch -c /Users/denis/Documents/research/smash/iphone/meetup5/main.m -o /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup5AppDelegate.o /Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s311191034.886006
+e311191035.041888
+r1
+xCompileC
+xbuild/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup5AppDelegate.o
+x/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m: In function '-[meetup5AppDelegate findPeers:]':
+o/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: 'UIView' may not respond to '-startPicker'
+o/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: (Messages without a matching method signature
+o/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: will be assumed to return 'id' and accept
+o/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: '...' as arguments.)
+lSLF07#2@89"Compile /Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m311191034#311191035#0(663"/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m: In function '-[meetup5AppDelegate findPeers:]':/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: 'UIView' may not respond to '-startPicker'/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: (Messages without a matching method signature/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: will be assumed to return 'id' and accept/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: '...' as arguments.)2(22@42"'UIView' may not respond to '-startPicker'311191034#131#138#0(6@81"/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m310596082#21#0#21#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)311191034#269#141#0(6@81"/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m310596082#21#0#21#0#0"0(0#0#81"/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m8718610592#1916"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-generated-files.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-own-target-headers.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-all-target-headers.hmap -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-project-headers.hmap -F/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos -I/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/include -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources/armv6 -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources -include /var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-dhnyupeekedsqwbltcsjerjzhwhv/meetup5_Prefix.pch -c /Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m -o /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup5AppDelegate.o0#
+
+CCompileC build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/RootViewController.o /Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s311191035.181079
+e311191035.328745
+r1
+xCompileC
+xbuild/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/RootViewController.o
+x/Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.m311191035#311191035#0(0"0(0#0#81"/Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.m8721150496#1916"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-generated-files.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-own-target-headers.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-all-target-headers.hmap -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-project-headers.hmap -F/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos -I/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/include -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources/armv7 -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources -include /var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-euikkyhazktqxagfdaqaohpspsyd/meetup5_Prefix.pch -c /Users/denis/Documents/research/smash/iphone/meetup5/Classes/RootViewController.m -o /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/RootViewController.o0#
+
+CCompileC build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/main.o /Users/denis/Documents/research/smash/iphone/meetup5/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s311191035.041998
+e311191035.120303
+r1
+xCompileC
+xbuild/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/main.o
+x/Users/denis/Documents/research/smash/iphone/meetup5/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/denis/Documents/research/smash/iphone/meetup5/main.m311191035#311191035#0(0"0(0#0#59"/Users/denis/Documents/research/smash/iphone/meetup5/main.m8722906240#1880"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-generated-files.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-own-target-headers.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-all-target-headers.hmap -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-project-headers.hmap -F/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos -I/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/include -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources/armv7 -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources -include /var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-euikkyhazktqxagfdaqaohpspsyd/meetup5_Prefix.pch -c /Users/denis/Documents/research/smash/iphone/meetup5/main.m -o /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup5AppDelegate.o /Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s311191035.120383
+e311191035.260520
+r1
+xCompileC
+xbuild/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup5AppDelegate.o
+x/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m: In function '-[meetup5AppDelegate findPeers:]':
+o/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: 'UIView' may not respond to '-startPicker'
+o/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: (Messages without a matching method signature
+o/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: will be assumed to return 'id' and accept
+o/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: '...' as arguments.)
+lSLF07#2@89"Compile /Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m311191035#311191035#0(663"/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m: In function '-[meetup5AppDelegate findPeers:]':/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: 'UIView' may not respond to '-startPicker'/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: (Messages without a matching method signature/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: will be assumed to return 'id' and accept/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m:21: warning: '...' as arguments.)2(22@42"'UIView' may not respond to '-startPicker'311191035#131#138#0(6@81"/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m310596082#21#0#21#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)311191035#269#141#0(6@81"/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m310596082#21#0#21#0#0"0(0#0#81"/Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m8721750752#1916"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-generated-files.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-own-target-headers.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-all-target-headers.hmap -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-project-headers.hmap -F/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos -I/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/include -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources/armv7 -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources -include /var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-euikkyhazktqxagfdaqaohpspsyd/meetup5_Prefix.pch -c /Users/denis/Documents/research/smash/iphone/meetup5/Classes/meetup5AppDelegate.m -o /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup5AppDelegate.o0#
+
+CCompileXIB /Users/denis/Documents/research/smash/iphone/meetup5/MainWindow.xib
+s311191032.789613
+e311191033.263381
+r1
+xCompileXIB
+x/Users/denis/Documents/research/smash/iphone/meetup5/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311191032#311191033#0(0"0(0#0#67"/Users/denis/Documents/research/smash/iphone/meetup5/MainWindow.xib30962681237012596#586"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/MainWindow.nib /Users/denis/Documents/research/smash/iphone/meetup5/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/denis/Documents/research/smash/iphone/meetup5/RootViewController.xib
+s311191032.790896
+e311191033.333871
+r1
+xCompileXIB
+x/Users/denis/Documents/research/smash/iphone/meetup5/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib311191032#311191033#0(0"0(0#0#75"/Users/denis/Documents/research/smash/iphone/meetup5/RootViewController.xib8719482784#602"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/RootViewController.nib /Users/denis/Documents/research/smash/iphone/meetup5/RootViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCpResource build/Debug-iphoneos/meetup5.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s311191032.714951
+e311191032.789464
+r1
+xCpResource
+xbuild/Debug-iphoneos/meetup5.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist311191032#311191032#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8718853344#508"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app0#
+
+CCreateUniversalBinary /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/meetup5 normal "armv6 armv7"
+s311191035.360525
+e311191035.378652
+r1
+xCreateUniversalBinary
+x/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/meetup5
+xnormal
+xarmv6 armv7
+lSLF07#2@83"CreateUniversalBinary build/Debug-iphoneos/meetup5.app/meetup5 normal "armv6 armv7"311191035#311191035#0(0"0(0#0#64"/Users/denis/Documents/research/smash/iphone/meetup5/armv6 armv78722216288#574"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup5 /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup5 -output /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/meetup50#
+
+CDataModelCompile /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/deviceList.mom /Users/denis/Documents/research/smash/iphone/meetup5/deviceList.xcdatamodel
+s311191034.823573
+e311191034.947493
+r1
+xDataModelCompile
+x/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/deviceList.mom
+x/Users/denis/Documents/research/smash/iphone/meetup5/deviceList.xcdatamodel
+lSLF07#2@83"Compile /Users/denis/Documents/research/smash/iphone/meetup5/deviceList.xcdatamodel311191034#311191034#0(0"0(0#0#75"/Users/denis/Documents/research/smash/iphone/meetup5/deviceList.xcdatamodel8719377984#389"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc /Users/denis/Documents/research/smash/iphone/meetup5/deviceList.xcdatamodel /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/deviceList.mom0#
+
+CGenerateDSYMFile /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app.dSYM /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/meetup5
+s311191035.378768
+e311191035.424418
+r1
+xGenerateDSYMFile
+x/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app.dSYM
+x/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/meetup5
+lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/meetup5.app.dSYM build/Debug-iphoneos/meetup5.app/meetup5311191035#311191035#0(0"0(0#0#93"/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/meetup58721726784#404"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/meetup5 -o /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app.dSYM0#
+
+CLd /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup5 normal armv6
+s311191035.119156
+e311191035.180967
+r1
+xLd
+x/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup5
+xnormal
+xarmv6
+lSLF07#2@135"Link /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup5311191035#311191035#0(0"0(0#0#0"8721948384#972"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos -F/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos -filelist /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup5.LinkFileList -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -framework CoreData -o /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv6/meetup50#
+
+CLd /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup5 normal armv7
+s311191035.328846
+e311191035.360415
+r1
+xLd
+x/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup5
+xnormal
+xarmv7
+lSLF07#2@135"Link /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup5311191035#311191035#0(0"0(0#0#0"8722567520#972"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos -F/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos -filelist /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup5.LinkFileList -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -framework CoreData -o /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/Objects-normal/armv7/meetup50#
+
+CProcessInfoPlistFile /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/Info.plist meetup5-Info.plist
+s311191032.716574
+e311191032.751428
+r1
+xProcessInfoPlistFile
+x/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/Info.plist
+xmeetup5-Info.plist
+lSLF07#2@26"Process meetup5-Info.plist311191032#311191032#0(0"0(0#0#71"/Users/denis/Documents/research/smash/iphone/meetup5/meetup5-Info.plist8715473408#618"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility meetup5-Info.plist -genpkginfo /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/ResourceRules.plist -o /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/Info.plist0#
+
+CProcessPCH /var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-dhnyupeekedsqwbltcsjerjzhwhv/meetup5_Prefix.pch.gch meetup5_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s311191033.334005
+e311191034.755272
+r1
+xProcessPCH
+x/var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-dhnyupeekedsqwbltcsjerjzhwhv/meetup5_Prefix.pch.gch
+xmeetup5_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile meetup5_Prefix.pch311191033#311191034#0(0"0(0#0#71"/Users/denis/Documents/research/smash/iphone/meetup5/meetup5_Prefix.pch8721630304#1764"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-generated-files.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-own-target-headers.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-all-target-headers.hmap -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-project-headers.hmap -F/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos -I/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/include -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources/armv6 -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources -c /Users/denis/Documents/research/smash/iphone/meetup5/meetup5_Prefix.pch -o /var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-dhnyupeekedsqwbltcsjerjzhwhv/meetup5_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-euikkyhazktqxagfdaqaohpspsyd/meetup5_Prefix.pch.gch meetup5_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s311191033.335194
+e311191034.823324
+r1
+xProcessPCH
+x/var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-euikkyhazktqxagfdaqaohpspsyd/meetup5_Prefix.pch.gch
+xmeetup5_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile meetup5_Prefix.pch311191033#311191034#0(0"0(0#0#71"/Users/denis/Documents/research/smash/iphone/meetup5/meetup5_Prefix.pch8721488352#1764"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-generated-files.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-own-target-headers.hmap -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-all-target-headers.hmap -iquote /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5-project-headers.hmap -F/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos -I/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/include -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources/armv7 -I/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/DerivedSources -c /Users/denis/Documents/research/smash/iphone/meetup5/meetup5_Prefix.pch -o /var/folders/5x/5xx2r5FoGgKTCSLHGe8X7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/meetup5_Prefix-euikkyhazktqxagfdaqaohpspsyd/meetup5_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/denis/Library/MobileDevice/Provisioning Profiles/6F893F2A-F983-4856-896F-07B2DC0F7DA2.mobileprovision" /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/embedded.mobileprovision
+s311191035.424588
+e311191035.478152
+r1
+xProcessProductPackaging
+x/Users/denis/Library/MobileDevice/Provisioning Profiles/6F893F2A-F983-4856-896F-07B2DC0F7DA2.mobileprovision
+x/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/embedded.mobileprovision
+lSLF07#2@192"ProcessProductPackaging "/Users/denis/Library/MobileDevice/Provisioning Profiles/6F893F2A-F983-4856-896F-07B2DC0F7DA2.mobileprovision" build/Debug-iphoneos/meetup5.app/embedded.mobileprovision311191035#311191035#0(0"0(0#0#110"/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/embedded.mobileprovision8721183904#451"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/denis/Library/MobileDevice/Provisioning Profiles/6F893F2A-F983-4856-896F-07B2DC0F7DA2.mobileprovision" -o /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/denis/Library/MobileDevice/Provisioning Profiles/970894BD-BE7A-4DF6-A2DB-7B4E73B3F1F7.mobileprovision" /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/embedded.mobileprovision
+s311188453.083038
+e311188453.084431
+r1
+xProcessProductPackaging
+x/Users/denis/Library/MobileDevice/Provisioning Profiles/970894BD-BE7A-4DF6-A2DB-7B4E73B3F1F7.mobileprovision
+x/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/embedded.mobileprovision
+lSLF07#2@192"ProcessProductPackaging "/Users/denis/Library/MobileDevice/Provisioning Profiles/970894BD-BE7A-4DF6-A2DB-7B4E73B3F1F7.mobileprovision" build/Debug-iphoneos/meetup5.app/embedded.mobileprovision311188453#311188453#0(0"0(0#0#110"/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/embedded.mobileprovision8716058400#451"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/denis/Library/MobileDevice/Provisioning Profiles/970894BD-BE7A-4DF6-A2DB-7B4E73B3F1F7.mobileprovision" -o /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5.xcent
+s311191035.494537
+e311191035.511973
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5.xcent
+lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5.xcent311191035#311191035#0(0"0(0#0#115"/Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5.xcent8714692224#460"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/denis/Documents/research/smash/iphone/meetup5/build/meetup5.build/Debug-iphoneos/meetup5.build/meetup5.xcent0#
+
+CTouch /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app
+s311191035.478279
+e311191035.494414
+r1
+xTouch
+x/Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app
+lSLF07#2@91"Touch /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app311191035#311191035#0(0"0(0#0#0"8718078336#292"    cd /Users/denis/Documents/research/smash/iphone/meetup5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/denis/Documents/research/smash/iphone/meetup5/build/Debug-iphoneos/meetup5.app0#
+
